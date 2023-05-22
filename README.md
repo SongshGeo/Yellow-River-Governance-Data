@@ -1,5 +1,6 @@
 # Dataset description
 
+[![DOI](https://zenodo.org/badge/643696180.svg)](https://zenodo.org/badge/latestdoi/643696180)
 **version**: v-1.1.0
 
 This repo storages datasets for the research **"Identifying regime transitions for water governance at the Yellow River Basin (YRB), China"**, submitted to *Water Resources Research* (WRR).
