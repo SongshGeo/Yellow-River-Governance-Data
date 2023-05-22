@@ -1,6 +1,6 @@
 # Dataset description
 
-**version**: v-1.0.0
+**version**: v-1.1.0
 
 This repo storages datasets for the research **"Identifying regime transitions for water governance at the Yellow River Basin (YRB), China"**, submitted to *Water Resources Research* (WRR).
 
@@ -104,3 +104,7 @@ Calculation results of Integrated Water Governance Index (IWGI). Combining three
 Creative Commons Attribution 4.0 International
 
 Data may be freely downloaded for research, study, or teaching, but must be cited appropriately. Re-release of the data, or incorporation of the data into a commercial product, is allowed only with explicit permission. If you would like to request permission to use this dataset for another purpose, please contact us at [shuaiwang@bnu.edu.cn](mailto:shuaiwang@bnu.edu.cn)
+
+## Funding
+
+Funding was provided by the National Natural Science Foundation of China (CN) (Grant Nos. NSFC 42041007).
