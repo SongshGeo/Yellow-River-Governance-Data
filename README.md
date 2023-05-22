@@ -11,7 +11,7 @@ This repo storages datasets for the research **"Identifying regime transitions f
 | **Reservoirs** | reservoirs.csv | 1956-2021 | Dataset of significant new reservoirs built in the YRB since 1956, including major reservoirs constructed mainly for regulating and managing. |
 | **Measured Runoff** | runoff.csv | 1956-2021 | Annual measured runoff data collected from the Yellow River Sediment Bulletin and four controlling stations measuring different reaches of the Yellow River. |
 | **NLWUD water uses** | perfectures_YR_WU.csv | 1965-2013 | Water use dataset from the National Long-term Water Use Dataset of China (NLWUD), including water uses, water-consuming economic variables, and water use intensities by sectors at the prefecture level. |
-| **Bulletin water uses** | groundwater_WU.csv, runoff_WU.csv | 2001-2021 | Water use dataset from Yellow River Water Resource Bulletins. |
+| **Bulletin water uses** | groundwater_WU.csv, surface_WU.csv | 2001-2017 | Water use dataset from Yellow River Water Resource Bulletins. |
 | **Laws** | crucial_laws.xlsx | 1949-2013 | Important laws related to the Yellow River at the basin scale from the last century. |
 | **Big Events Records** | big_events.csv | 1949-2015 | Original "big events" documents related to the Yellow River governance from the Yellow River Water Conservancy Commission (YRCC), the agency at the basin scale. |
 
@@ -57,7 +57,7 @@ We determined the prefectures belong to the YRB by filtering the NLWUD dataset w
 
 ## Bulletin water uses
 
-Water use dataset from [Yellow River Water Resource Bulletins](http://www.yrcc.gov.cn/zwzc/gzgb/gb/szygb/). Two sheets (groundwater_WU.csv and runoff_WU.csv) store statistical water uses data from groundwater and surface water, separately. Data was reported by province annually with two items (withdraw and consumption) and six sectors (Irrigation, Livestock, Industry, Cities, Domestic, Ecological).
+Water use dataset from [Yellow River Water Resource Bulletins](http://www.yrcc.gov.cn/zwzc/gzgb/gb/szygb/). Two sheets (groundwater_WU.csv and surface_WU.csv) store statistical water uses data from groundwater and surface water, separately. Data was reported by province annually with two items (withdraw and consumption) and six sectors (Irrigation, Livestock, Industry, Cities, Domestic, Ecological).
 
 **Fields**:
 
